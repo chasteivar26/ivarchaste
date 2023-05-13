@@ -817,4 +817,10 @@ i img{
 		cursor: pointer;
 		color: white;
 	}
+	.getin div input[type=text],input[type=email],input[type=phone],textarea{
+		font-size: 20px;
+	}
+	.mycontact div{
+		font-size: 20px;
+	}
 }
